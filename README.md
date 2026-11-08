@@ -1,7 +1,7 @@
 # Breast Cancer Classification – ML Assignment 2 (M.Tech AIML, BITS WILP)
 
-**Live Streamlit App:** `<PASTE YOUR STREAMLIT APP LINK HERE>`
-**GitHub Repository:** `<PASTE YOUR GITHUB REPO LINK HERE>`
+**Live Streamlit App:** `https://mlassignment2srishtieligar.streamlit.app/`
+**GitHub Repository:** `https://github.com/eligarsrishti1/ML_assignment_2`
 
 ## 1. Problem Statement
 
